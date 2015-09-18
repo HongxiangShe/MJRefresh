@@ -5,7 +5,6 @@
 //
 //  Created by MJ Lee on 14-5-28.
 //  Copyright (c) 2014年 小码哥. All rights reserved.
-//
 
 #import <UIKit/UIKit.h>
 
